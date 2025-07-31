@@ -4,3 +4,6 @@
 [submodule "Based-Rollup"]
 	path = Based-Rollup
 	url = https://github.com/Se76/Based-Rollup.git
+[submodule "custom-syscall"]
+	path = custom-syscall
+	url = https://github.com/4rjunc/custom-syscall
