@@ -17,6 +17,12 @@ This repository serves as a curated collection of projects created by participan
   - **Demo**: [Link to live demo if available]
   - **Tech Stack**: Solana SVM API, Rust.
 
+- **Custom Syscall:**
+  - **Description**: A simple implementation of custom syscall. 
+  - **Status**: Completed during cohort.
+  - **Demo**: [Link to live demo if available]
+  - **Tech Stack**: Solana SVM API, Solana SDK, Rust.
+
 - **[Add more projects here...]**
   - **Description**: [Brief overview of the project and its purpose]
   - **Repo**: [Link to the student's GitHub repository]
