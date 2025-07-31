@@ -7,3 +7,6 @@
 [submodule "custom-syscall"]
 	path = custom-syscall
 	url = https://github.com/4rjunc/custom-syscall
+[submodule "zksvm"]
+	path = zksvm
+	url = https://github.com/SwineCoder101/zksvm.git
