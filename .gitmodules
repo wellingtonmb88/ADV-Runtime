@@ -1,3 +1,6 @@
 [submodule "Solana-Client-Extension"]
 	path = Solana-Client-Extension
 	url = https://github.com/BretasArthur1/Solana-Client-Extension
+[submodule "Based-Rollup"]
+	path = Based-Rollup
+	url = https://github.com/Se76/Based-Rollup.git

@@ -7,7 +7,12 @@ This repository serves as a curated collection of projects created by participan
 
 - **Rust solana client extension:**
   - **Description**: A solana rust client extension crate can be used to simulate transactions locally using the SVM api.
-  - **Repo**: [https://github.com/studentB/nft-marketplace](https://github.com/studentB/nft-marketplace)
+  - **Status**: Completed during cohort.
+  - **Demo**: [Link to live demo if available]
+  - **Tech Stack**: Solana SVM API, Rust.
+
+  - **RBased Rollup:**
+  - **Description**: A single app rollup, using the SVM api.
   - **Status**: Completed during cohort.
   - **Demo**: [Link to live demo if available]
   - **Tech Stack**: Solana SVM API, Rust.
@@ -24,10 +29,10 @@ We welcome contributions to add your project as a Git submodule! This allows the
 
 To add or update a project:
 1. Fork this repository on GitHub.
-2. Clone your fork locally: `git clone https://github.com/yourusername/central-repo-fork.git`.
+2. Clone your fork locally: `git clone https://github.com/Turbin3/ADV-Runtime.git`.
 3. Add your project as a submodule:
    - Run `git submodule add <your-repo-url> <submodule-path>`.
-   - Example: `git submodule add https://github.com/studentA/solana-pay-widget studentA-solana-pay-widget`.
+   - Example: `git submodule add https://github.com/student/rollup student-rollup`.
    - Choose a clear path like `yourusername-projectname`.
 4. Update the `README.md` file to include your project details in the **Project List** section, following the format above (include the submodule path).
 5. Commit your changes: `git commit -am "Add submodule and README entry for my project"`.
