@@ -14,13 +14,16 @@ This repository serves as a curated collection of projects created by participan
 - **Based Rollup:**
   - **Description**: A single app rollup, using the SVM api.
   - **Status**: Completed during cohort.
-  - **Demo**: [Link to live demo if available]
   - **Tech Stack**: Solana SVM API, Rust.
 
 - **Custom Syscall:**
   - **Description**: A simple implementation of custom syscall. 
   - **Status**: Completed during cohort.
-  - **Demo**: [Link to live demo if available]
+  - **Tech Stack**: Solana SVM API, Solana SDK, Rust.
+
+- **ZKSVM:**
+  - **Description**: A rollup using zk proofs. 
+  - **Status**: Completed during cohort.
   - **Tech Stack**: Solana SVM API, Solana SDK, Rust.
 
 - **[Add more projects here...]**
