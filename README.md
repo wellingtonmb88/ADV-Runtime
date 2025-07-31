@@ -23,6 +23,12 @@ This repository serves as a curated collection of projects created by participan
   - **Demo**: [Link to live demo if available]
   - **Tech Stack**: Solana SVM API, Solana SDK, Rust.
 
+- **ZKSVM Rollup:**
+  - **Description**: A general-purpose zero-knowledge rollup built on Solana's SVM for generating and verifying cryptographic proofs on-chain. Research-focused implementation for benchmarking SNARKs on SVM.
+  - **Status**: In Progress - Core architecture discussed, ZK proof generation in development.
+  - **Demo**: Demo will be available once zero-knowledge proof generation and verification features are completed.
+  - **Tech Stack**: Solana SVM API, Solana SDK, Rust, Actix Web, Groth16-Solana, Ark-ff, BN254.
+
 - **[Add more projects here...]**
   - **Description**: [Brief overview of the project and its purpose]
   - **Repo**: [Link to the student's GitHub repository]
