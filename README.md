@@ -11,7 +11,7 @@ This repository serves as a curated collection of projects created by participan
   - **Demo**: [Link to live demo if available]
   - **Tech Stack**: Solana SVM API, Rust.
 
-  - **RBased Rollup:**
+- **Based Rollup:**
   - **Description**: A single app rollup, using the SVM api.
   - **Status**: Completed during cohort.
   - **Demo**: [Link to live demo if available]
