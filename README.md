@@ -27,6 +27,11 @@ This repository serves as a curated collection of projects created by participan
   - **Demo**: Demo will be available once zero-knowledge proof generation and verification features are completed.
   - **Tech Stack**: Solana SVM API, Solana SDK, Rust, Actix Web, Groth16-Solana, Ark-ff, BN254.
 
+- **Agave Custom Syscall:**
+  - **Description**: A demonstration to build a custom syscall that returns Base-58 of a pubkey.
+  - **Status**: Completed during cohort.
+  - **Tech Stack**: Solana SVM API, Solana SDK, Rust, Typescript.
+
 - **[Add more projects here...]**
   - **Description**: [Brief overview of the project and its purpose]
   - **Repo**: [Link to the student's GitHub repository]
