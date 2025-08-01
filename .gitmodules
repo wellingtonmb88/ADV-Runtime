@@ -10,6 +10,9 @@
 [submodule "zksvm"]
 	path = zksvm
 	url = https://github.com/SwineCoder101/zksvm.git
+[submodule "kym0211-custom-syscall"]
+	path = kym0211-custom-syscall
+	url = https://github.com/Kym0211/custom-syscall
 [submodule "agave-custom-syscall"]
 	path = agave-custom-syscall
 	url = https://github.com/Manice18/agave_custom_syscall_example.git
