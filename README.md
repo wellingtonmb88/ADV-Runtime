@@ -21,6 +21,11 @@ This repository serves as a curated collection of projects created by participan
   - **Status**: Completed during cohort.
   - **Tech Stack**: Solana SVM API, Solana SDK, Rust.
 
+- **Kym0211-Custom Sysvar:**
+  - **Description**: A simple implementation of custom sysvar. 
+  - **Status**: Completed during cohort.
+  - **Tech Stack**: Solana SVM API, Solana SDK, Rust.
+
 - **ZKSVM Rollup:**
   - **Description**: A general-purpose zero-knowledge rollup built on Solana's SVM for generating and verifying cryptographic proofs on-chain. Research-focused implementation for benchmarking SNARKs on SVM.
   - **Status**: In Progress - Core architecture discussed, ZK proof generation in development.
