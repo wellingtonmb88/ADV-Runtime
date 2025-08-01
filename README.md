@@ -12,9 +12,9 @@ This repository serves as a curated collection of projects created by participan
   - **Tech Stack**: Solana SVM API, Rust.
 
 - **Based Rollup:**
-  - **Description**: A single app rollup, using the SVM api.
+  - **Description**: A single-app SVM rollup using Solana’s SVM API that offloads and batches transactions off-chain, sequences and executes them with account locking and local state updates, delegates authority over the user funds during the process of batching and processing txs, then settles bundled batches (e.g., 10 tx) back on-chain to boost throughput and reduce fees without sacrificing Solana security, returns funds that are left to the user. Check Sequence Diagram [here](https://github.com/Se76/Based-Rollup/blob/main/svg.svg)
   - **Status**: Completed during cohort.
-  - **Tech Stack**: Solana SVM API, Rust.
+  - **Tech Stack**: Rust, Solana SVM API, Actix Web (frontend HTTP server to send transactions through it), Crossbeam and async channels (concurrency), In-memory DB (rollup state), Anchor (Solana program for the delegation of funds during the process), Solana RPC
 
 - **Custom Syscall:**
   - **Description**: A simple implementation of custom syscall. 
