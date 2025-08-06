@@ -16,6 +16,10 @@
 [submodule "agave-custom-syscall"]
 	path = agave-custom-syscall
 	url = https://github.com/Manice18/agave_custom_syscall_example.git
+[submodule "Kym0211-rollup_stub"]
+	path = Kym0211-rollup_stub
+	url = https://github.com/Kym0211/rollup_stub
 [submodule "zkSVM_with_SP1"]
 	path = zkSVM_with_SP1
 	url = https://github.com/Dodecahedr0x/zk-rollup
+
