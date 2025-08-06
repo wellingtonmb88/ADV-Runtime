@@ -13,7 +13,7 @@ This repository serves as a curated collection of projects created by participan
 
 - **Based Rollup:**
   - **Description**: A single-app SVM rollup using Solana’s SVM API that offloads and batches transactions off-chain, sequences and executes them with account locking and local state updates, delegates authority over the user funds during the process of batching and processing txs, then settles bundled batches (e.g., 10 tx) back on-chain to boost throughput and reduce fees without sacrificing Solana security, returns funds that are left to the user. Check Sequence Diagram [here](https://github.com/Se76/Based-Rollup/blob/main/svg.svg)
-  - **Status**: Completed during cohort.
+  - **Status**: Completed during ADV-SVM Q1 2025 cohort.
   - **Tech Stack**: Rust, Solana SVM API, Actix Web (frontend HTTP server to send transactions through it), Crossbeam and async channels (concurrency), In-memory DB (rollup state), Anchor (Solana program for the delegation of funds during the process), Solana RPC
 
 - **Custom Syscall:**
@@ -37,10 +37,11 @@ This repository serves as a curated collection of projects created by participan
   - **Status**: Completed during cohort.
   - **Tech Stack**: Solana SVM API, Solana SDK, Rust, Typescript.
 
-- **Stan ZKSVM rollup SP1:**
-  - **Description**: A zk svm rollup building on the SP1 zk technology provided by Succinct.
+- **zkSVM rollup using SP1 zkVM:**
+  - **Description**: A zkSVM rollup built on the SP1 zkVM provided by Succinct.
   - **Status**: Completed during cohort.
-  - **Tech Stack**: Solana SVM API, Solana SDK, Succinct, Rust, Typescript.
+  - **Tech Stack**: Solana SVM API, Solana SDK, SP1 zkVM, Rust, Typescript.
+  - **Implemented By**: [Dodecahedr0x](https://github.com/Dodecahedr0x), [Stanislav](https://github.com/LStan) and [The Wuh](https://github.com/thewuhxyz)
 
 - **[Add more projects here...]**
   - **Description**: [Brief overview of the project and its purpose]
