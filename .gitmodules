@@ -22,4 +22,7 @@
 [submodule "zkSVM_with_SP1"]
 	path = zkSVM_with_SP1
 	url = https://github.com/Dodecahedr0x/zk-rollup
+[submodule "Playchannel"]
+	path = Playchannel
+	url = https://github.com/ubadineke/playchannel
 
