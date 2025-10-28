@@ -26,3 +26,7 @@
 	path = Playchannel
 	url = https://github.com/ubadineke/playchannel
 
+[submodule "CPSR-LITE"]
+	path = CPSR-LITE
+	url = https://github.com/RedaRahmani/Rollup.git
+	branch = main
